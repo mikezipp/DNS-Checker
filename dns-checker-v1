@@ -1,0 +1,22 @@
+import socket
+import time
+import sys
+
+
+int1 = "sjc1-netscripts-prod-node01"
+ext1 = "netflix.com"
+ext2 = "google.com"
+
+list_of_hosts = (ext1, ext2, int1)
+
+
+def dnschecker():
+   for x in list_of_hosts:
+      try:
+         print socket.gethostbyname(x)
+      except socket.gaierror as e:
+         print "could not find %s" % (int1)
+dnschecker()
+
+
+

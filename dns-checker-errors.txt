@@ -1,12 +1,4 @@
 #Errors go below!
-could not resolve DNS for ssjc1-netscripts-prod-node01 at 2017-10-30 11:11:34.193563  
-could not resolve DNS for ssjc1-netscripts-prod-node01 at 2017-10-30 11:11:35.007041  
-could not resolve DNS for ssjc1-netscripts-prod-node01 at 2017-10-30 11:11:39.552479  
-could not resolve DNS for ssjc1-netscripts-prod-node01 at 2017-10-30 11:11:40.294908  
-could not resolve DNS for ssjc1-netscripts-prod-node01 at 2017-10-30 11:57:48.952046  
-could not resolve DNS for ssjc1-netscripts-prod-node01 at 2017-10-30 12:03:27.049767  
-could not resolve DNS for ssjc1-netscripts-prod-node01 at 2017-10-30 14:00:50.269722  
-could not resolve DNS for ssjc1-netscripts-prod-node01 at 2017-10-30 14:01:00.959752  
-could not resolve DNS for ssjc1-netscripts-prod-node01 at 2017-10-30 14:13:00.796665  
 could not resolve DNS for ssjc1-netscripts-prod-node01 at 2017-10-30 14:14:01.093079  
 could not resolve DNS for ssjc1-netscripts-prod-node01 at 2017-10-30 14:15:00.255833  
+#fixed script. new entries below

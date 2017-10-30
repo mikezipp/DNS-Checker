@@ -7,7 +7,7 @@ from datetime import datetime
 
 
 #Hosts to search for
-int1 = "ssjc1-netscripts-prod-node01"
+int1 = "sjc1-netscripts-prod-node01"
 ext1 = "netflix.com"
 ext2 = "google.com"
 

@@ -7,3 +7,6 @@ could not resolve DNS for ssjc1-netscripts-prod-node01 at 2017-10-30 11:57:48.95
 could not resolve DNS for ssjc1-netscripts-prod-node01 at 2017-10-30 12:03:27.049767  
 could not resolve DNS for ssjc1-netscripts-prod-node01 at 2017-10-30 14:00:50.269722  
 could not resolve DNS for ssjc1-netscripts-prod-node01 at 2017-10-30 14:01:00.959752  
+could not resolve DNS for ssjc1-netscripts-prod-node01 at 2017-10-30 14:13:00.796665  
+could not resolve DNS for ssjc1-netscripts-prod-node01 at 2017-10-30 14:14:01.093079  
+could not resolve DNS for ssjc1-netscripts-prod-node01 at 2017-10-30 14:15:00.255833  

@@ -29,8 +29,3 @@ dnschecker()
 
 
 
-#crontab config (osx)
-#env EDITOR=nano crontab -e
-#MAILTO=""
-#1 * * * * cd /Users/mzipp/DNS-Checker/ && /usr/bin/python /Users/mzipp/DNS-Checker/dns-checker-v1
-

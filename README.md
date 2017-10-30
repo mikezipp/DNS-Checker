@@ -11,3 +11,14 @@ MAILTO=""
 
 #Execute every 1 minute by changing to directory and executing script
 */1 * * * * cd /Users/mzipp/DNS-Checker/ && /usr/bin/python dns-checker-v1
+
+
+#back up the crontab:
+crontab -l > my_cron_backup.txt
+
+#Empty it:
+crontab -r
+
+#To restore:
+crontab my_cron_backup.txt
+crontab -l

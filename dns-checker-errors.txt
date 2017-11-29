@@ -1,4 +1,1 @@
 #Errors go below!
-could not resolve DNS for ssjc1-netscripts-prod-node01 at 2017-10-30 14:14:01.093079  
-could not resolve DNS for ssjc1-netscripts-prod-node01 at 2017-10-30 14:15:00.255833  
-#fixed script. new entries below
